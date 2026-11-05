@@ -1,7 +1,13 @@
+<br>
+<br>
+<br>
+
 <div align="center">
   <img src="https://github.com/monocle-network/design/blob/main/assets/status/status-monocle-network-logo1.png?raw=true" alt="Monocle Network Status logo">
 </div>
 
+<br>
+<br>
 <br>
 
 ## Status
